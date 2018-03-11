@@ -1,0 +1,28 @@
+// Place all the styles related to the Articles controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+//
+
+a {
+  color: black;
+}
+
+
+header {
+  font-family: Helvetica;
+  width: 60%;
+  min-width: 400px;
+  border: 1px solid white;
+  margin: 0 auto;
+  margin-bottom: 3rem;
+  background: linear-gradient(125deg, orange, teal);
+  text-align: center;
+}
+
+button:hover {
+  background-color: black;
+}
+
+button a:hover {
+  color: white;
+}
