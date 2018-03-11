@@ -4,23 +4,13 @@
 //
 
 a {
-  color: black;
+  color: darkgrey;
 }
 
 
-header {
-  font-family: Helvetica;
-  width: 60%;
-  min-width: 400px;
-  border: 1px solid white;
-  margin: 0 auto;
-  margin-bottom: 3rem;
-  background: linear-gradient(125deg, orange, teal);
-  text-align: center;
-}
 
 button:hover {
-  background-color: black;
+  background: linear-gradient(125deg, orange, pink);
 }
 
 button a:hover {
